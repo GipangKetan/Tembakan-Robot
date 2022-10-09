@@ -6,10 +6,6 @@
 #include <cmath>
 using namespace std;
 
-#define GRAVITASI 10 //10 m/s^2
-#define START_PENGUKURAN 1 //pengukuran dimulai dari 1 meter
-#define SUDUT 45 //sudut elevasi tembakan
-
 int main()
 {
  int jarak;
